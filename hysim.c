@@ -1,3 +1,8 @@
+// =========================================================================
+// HYSIM V1.0 (November 2017)
+// CREATED BY NACHO MOLINA AND SAMUEL ZAMBRANO
+// =========================================================================
+
 #include <assert.h>
 #include <iostream>
 #include <fstream>
